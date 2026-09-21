@@ -1,2 +1,2 @@
 # code-explainer
-Code Explainer turns source code into a plain-English report for non-technical people: what it is, what it was meant to be, how it works, and what's missing.
+Code Explainer reads a codebase and explains it to people who don't code. Upload files or paste code, pick your audience (business owner, investor, product manager, or beginner), and get a report covering the summary, intended build, main parts, step-by-step flow, data and outside services, how finished it is, risks in business terms, and questions to ask the developer.
